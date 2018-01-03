@@ -14,6 +14,7 @@
 		4378601A1FFD0E1900A5223C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 437860181FFD0E1900A5223C /* LaunchScreen.storyboard */; };
 		437860251FFD0E1900A5223C /* testGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437860241FFD0E1900A5223C /* testGitTests.swift */; };
 		437860301FFD0E1900A5223C /* testGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4378602F1FFD0E1900A5223C /* testGitUITests.swift */; };
+		4378603E1FFD0F1000A5223C /* anim.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4378603D1FFD0F0F00A5223C /* anim.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4378602B1FFD0E1900A5223C /* testGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4378602F1FFD0E1900A5223C /* testGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testGitUITests.swift; sourceTree = "<group>"; };
 		437860311FFD0E1900A5223C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4378603D1FFD0F0F00A5223C /* anim.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = anim.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				4378600F1FFD0E1900A5223C /* AppDelegate.swift */,
 				437860111FFD0E1900A5223C /* ViewController.swift */,
 				437860131FFD0E1900A5223C /* Main.storyboard */,
+				4378603D1FFD0F0F00A5223C /* anim.gif */,
 				437860161FFD0E1900A5223C /* Assets.xcassets */,
 				437860181FFD0E1900A5223C /* LaunchScreen.storyboard */,
 				4378601B1FFD0E1900A5223C /* Info.plist */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4378601A1FFD0E1900A5223C /* LaunchScreen.storyboard in Resources */,
+				4378603E1FFD0F1000A5223C /* anim.gif in Resources */,
 				437860171FFD0E1900A5223C /* Assets.xcassets in Resources */,
 				437860151FFD0E1900A5223C /* Main.storyboard in Resources */,
 			);
